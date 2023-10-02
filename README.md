@@ -7,8 +7,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bx5bqxkeaebxsc763nkyhssujq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=453a6e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <h2>Projetos!</h2>
-<div></div><a href="https://tdar-rs.vercel.app/></p><img src="inwork.png" width="344" height="215"></img></a></div>
-<div></div>Trabalho TDAE - Em construção</div>
+<div><a href="https://tdar-rs.vercel.app/><img src="inwork.png" width="344" height="215"></img></a></div>
+<div>Trabalho TDAE - Em construção</div>
 
 <h2>Contatos</h2>
 

@@ -1,6 +1,6 @@
 <h1>Opa, eai!</h1>
 <a href="https://luviniu-portfolio.vercel.app/"><img src="luvini.png" width="200" height="200" align="left"></img></a>
-<p> Meu nome é Luan, <b>estudante</b> de 16 anos
+<p> Meu nome é Luan, <b>estudante</b> de 17 anos
 <br>Estudo no <b>IFB Campus Gama</b> e estou cursando <b>Técnico Integrado em Química</b>
 <br>Desenho e programos umas besteiras como hobby
 <br> Já fiz algumas comissões e sites</p>

@@ -5,7 +5,7 @@
 <br>Desenho e programos umas besteiras como hobby
 <br> Já fiz algumas comissões e sites</p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bx5bqxkeaebxsc763nkyhssujq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=453a6e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bx5bqxkeaebxsc763nkyhssujq&cover_image=true&theme=novatorem&show_offline=false&background_color=241f31&interchange=false&bar_color=613583&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <h2>Projetos!</h2>
 <div></div><a href="https://tdar-rs.vercel.app/"></p><img src="projeto.png" width="344" height="215" border-radius="20px"></img></a></div>
 <div></div>Trabalho TDAE </div>

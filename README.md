@@ -1,9 +1,8 @@
 <h1>Opa, eai!</h1>
 <a href="https://luviniu-portfolio.vercel.app/"><img src="luvini.png" width="200" height="200" align="left"></img></a>
-<p> Meu nome é Luan, <b>estudante</b> de 17 anos
-<br>Estudo no <b>IFB Campus Gama</b> e estou cursando <b>Técnico Integrado em Química</b>
-<br>Desenho e programos umas besteiras como hobby
-<br> Já fiz algumas comissões e sites</p>
+<p> Meu nome é Luan, <b>estudante</b> de 18 anos
+<br>Estudo na <b>Universidade de Brasilia</b> e estou cursando <b>Engenharia de Computacao</b>
+<br>Desenho e programos umas besteiras como hobby</p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bx5bqxkeaebxsc763nkyhssujq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bx5bqxkeaebxsc763nkyhssujq&redirect=true)
 <h2>Projetos!</h2>
